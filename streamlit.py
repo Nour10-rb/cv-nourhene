@@ -16,8 +16,7 @@ with st.sidebar:
     🗓️ *Née le 6 février 1999*
     """)
 
-    st.markdown("---")
-    st.caption("CV interactif réalisé avec ❤️ via Streamlit")
+   
 
 # Éducation
 st.header("🎓 Éducation")
