@@ -3,7 +3,7 @@ import streamlit as st
 # Configuration de la page
 st.set_page_config(page_title="CV - Nourhene Rebaï", page_icon="📄", layout="wide")
 
-# En-tête principal
+# En-tete principal
 with st.sidebar:
    # st.image("photo.jpg", width=150)  # Optionnel, si tu veux ajouter une photo
     st.title("👩‍💻 Nourhene Rebaï")
